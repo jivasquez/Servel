@@ -1,1 +1,5 @@
 Servel.egg-info
+include
+bin
+lib
+.Python
